@@ -1,0 +1,49 @@
+
+    #application{
+        padding: 5px;
+        border: 2px solid #ddd;
+        width: 650px;
+        height: 842px;
+    }
+
+    #application > *{
+        font-weight: bold
+    }
+
+    #pic{
+        border: 3px solid #ddd
+    }
+
+    .data{
+        margin-bottom: 20px
+    }
+
+
+    .logo img{
+        float:left;
+        width: 165px;
+        height: 175px;
+    }
+
+    .pic img{
+        float: right;
+        width: 165px;
+        height: 175px;
+    }
+
+    .header
+    {
+      /* margin-bottom: 185px; */
+    }
+
+    .heading{
+      display: inline-block;
+      margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+     width: 100%;
+    }
+
+    th,td{
+        text-align: center;
+    }

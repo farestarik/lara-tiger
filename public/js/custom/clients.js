@@ -1,0 +1,1 @@
+$("#clientsList").addClass("active");

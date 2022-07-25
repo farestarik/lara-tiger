@@ -1,0 +1,1 @@
+$("#adminsList").addClass("active");

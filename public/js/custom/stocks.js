@@ -1,0 +1,1 @@
+$("#stocksList").addClass("active");

@@ -1,0 +1,1 @@
+$("#categoriesList").addClass("active");

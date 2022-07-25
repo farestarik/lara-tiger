@@ -1,0 +1,76 @@
+.table-container {
+    overflow: auto;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.btn-subscribe {}
+
+.btn-price {
+    color: #03164cbd;
+    cursor: default !important;
+    float: left;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    font-weight: bold;
+}
+
+:root {
+    --reportsColor: #5feaff;
+    --green: rgb(50, 212, 50);
+}
+
+aside.main-sidebar,
+nav.main-header,
+.layout-navbar-fixed .wrapper .sidebar-dark-primary .brand-link {
+    background-color: #041C32;
+    color: whitesmoke !important;
+}
+
+.content-wrapper {
+    /* background-image: url("https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80"); */
+    background-image: url("../pics/merce-bg.jpeg");
+    /* color: whitesmoke; */
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: whitesmoke !important;
+}
+
+.content-header h1 {
+    color: whitesmoke !important;
+}
+
+section.content h2 {
+    color: #b5a178 !important;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+/* Zebra striping */
+
+tr:nth-of-type(odd) {
+    background: #eee;
+}
+
+th {
+    background: #333;
+    color: white;
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 6px;
+    border: 1px solid #ccc;
+    text-align: left;
+}

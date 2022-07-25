@@ -1,0 +1,1 @@
+$("#brandsList").addClass("active");

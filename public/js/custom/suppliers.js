@@ -1,0 +1,1 @@
+$("#suppliersList").addClass("active");

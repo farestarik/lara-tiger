@@ -1,0 +1,1 @@
+$("#profileList").addClass("active");

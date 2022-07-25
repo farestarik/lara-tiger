@@ -1,0 +1,1 @@
+$("#dashboardList").addClass("active");

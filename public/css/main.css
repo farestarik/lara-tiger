@@ -1,0 +1,12 @@
+.card-header-style {
+    background: radial-gradient(#1f1d79, #000000f2);
+    color: white;
+}
+
+.content-wrapper {
+    background-image: url("/pics/medusa-bg.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 72px;
+}
