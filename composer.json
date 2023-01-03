@@ -33,8 +33,7 @@
             "Database\\Seeders\\": "database/seeders/"
         },
         "classmap": [
-            "app/Libraries",
-            "app/Services"
+          
         ],
         "files": [
             "app/Helpers/Functions.php",
